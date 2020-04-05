@@ -5,7 +5,7 @@
 
 This repository contains code and design documentation for an Arduino based four channel heater controller. The system monitors ambient temperature and temperatures in up to four targets. The power to four heaters associated to the targets is continuously adjusted to raise the target temperature above ambient by a configurable offset. Measured temperatures and power input to each heater can be logged to an SD card. Although originally developed for heating small microcosms in biological and ecological research, it is a flexible system with potential applications in various fields. 
 
-This repository is part of a peer-reviewed publication which you can find here [DOI](link).
+This repository is part of a publication which you can find here [http://dx.doi.org/10.1111/2041-210X.13391](http://dx.doi.org/10.1111/2041-210X.13391).
 
 
 ## About the code
